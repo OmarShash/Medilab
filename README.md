@@ -51,4 +51,6 @@ Bootstrap 4 fully suppports Flex Box.
 
 Gmail: omarshash284@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/omar-shash-78a42a189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR5idGzulQ%2BaFXPw9nbi5hg%3D%3D
+
 **Thanks for all**
